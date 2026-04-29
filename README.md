@@ -1,4 +1,4 @@
-                            Hi 👋, I'm Sanjana
+                                  Hi 👋, I'm Sanjana
    ____________________________________________________________________________
               🚀 Aspiring Data Analyst | SQL | Python | Power BI | Excel
                   💡 Turning Data into Insights | Real Projects
@@ -6,8 +6,8 @@
 
 
                               📫 Connect with me:
-"📧 Email" (me.sanjana00gmail.com) • 
-"💼 LinkedIn" (https://www.linkedin.com/in/sanjana-4b04a230a) •
+"📧 Email" (me.sanjana00gmail.com) 
+"💼 LinkedIn" (https://www.linkedin.com/in/sanjana-4b04a230a) 
 "🌐 Portfolio" (https://github.com/sanjana-030)
 
   _____________________________________________________________________________

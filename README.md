@@ -1,16 +1,41 @@
-## Hi there 👋
+Hi 👋, I'm Sanjana
 
-<!--
-**sanjana-030/sanjana-030** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Aspiring Data Analyst | SQL | Python | Power BI | Excel
+💡 Turning Data into Insights | Real Projects
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📫 Connect with me:
+"📧 Email" (me.sanjana00gmail.com) • "💼 LinkedIn" (https://www.linkedin.com/in/sanjana-4b04a230a) • "🌐 Portfolio" (https://github.com/sanjana-030)
+
+---
+
+👩‍💻 About Me
+
+I am an aspiring Data Analyst passionate about solving real-world problems using data.
+
+- 🎯 Skilled in SQL, Python, Excel, Power BI
+- 📊 Strong in Data Cleaning & Visualization
+- 📈 Built real-world projects
+- 🚀 Currently improving my skills daily
+
+---
+
+🛠️ Skills
+
+- 🐍 Python
+- 🗄️ SQL
+- 📊 Excel
+- 📈 Power BI
+
+---
+
+📂 Projects
+
+- 📊 Sales Data Analysis
+- 📈 Power BI Dashboard
+- 🐍 Python Data Projects
+
+---
+
+✨ "Data is not just numbers, it's a story waiting to be told."

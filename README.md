@@ -5,7 +5,7 @@
 
 
 
-  # 📫 Connect with me <p align="center">
+  ## 📫 Connect with me <p align="center">
   <a href="mailto:me.sanjana00@gmail.com">📧 Email</a> • 
   <a href="https://www.linkedin.com/in/sanjana-4b04a230a">💼 LinkedIn</a> • 
   <a href="https://github.com/sanjana-030">🌐 Portfolio</a>

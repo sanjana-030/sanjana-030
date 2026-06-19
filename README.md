@@ -34,14 +34,6 @@ I am an aspiring Data Analyst passionate about solving real-world problems using
 
 ---
 
-## 📂 Projects
-
-- 📊 Employee Data Analysis
-- 📈 Power BI Dashboard
-- 🐍 Python Data Projects
-
----
----
 
 ## 🧰 Tech Stack & Tools
 

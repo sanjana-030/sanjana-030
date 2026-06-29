@@ -1,7 +1,7 @@
   # Hi 👋, I'm Sanjana
    ____________________________________________________________________________
-              🚀 Aspiring Data Analyst | SQL | Python | Power BI | Excel
-                  💡 Turning Data into Insights | Real Projects
+    🚀 Aspiring Data Analyst | SQL | Python | Power BI | Excel
+        💡 Turning Data into Insights | Real Projects
 
 
 
